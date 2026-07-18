@@ -1,0 +1,27 @@
+# Exported profiles and credentials
+*.yaml
+*.yml
+*.db
+*.sqlite
+*.sqlite3
+*.ldb
+
+# Tool output
+FlyingBird-Export/
+decrypted/
+encrypted-backup/
+manifest.json
+
+# Local secrets and sync settings
+.env
+.env.*
+subscription_url.txt
+webdav-credentials.*
+
+# Windows and editors
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.log
+*.tmp
