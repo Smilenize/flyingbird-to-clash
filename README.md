@@ -79,6 +79,7 @@ powershell.exe -NoProfile -ExecutionPolicy Bypass `
 
 本仓库的 `.gitignore` 默认忽略 YAML、数据库和导出目录，但提交前仍应检查 `git status`。
 
+##感谢 [LINUX DO 社区](https://linux.do/) 提供交流与反馈平台。
 ## 许可证
 
 [MIT License](LICENSE)
